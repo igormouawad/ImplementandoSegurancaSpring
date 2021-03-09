@@ -1,0 +1,5 @@
+br\com\mouawad\estudos\spring\seguranca\JWTAuthenticationFilter.class
+br\com\mouawad\estudos\spring\seguranca\JWTUtil.class
+br\com\mouawad\estudos\spring\seguranca\UserSS.class
+br\com\mouawad\estudos\spring\seguranca\dto\CredenciaisDTO.class
+br\com\mouawad\estudos\spring\seguranca\JWTAuthenticationFilter$JWTAuthenticationFailureHandler.class
